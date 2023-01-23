@@ -14,3 +14,8 @@ Resources around software design and modelling
 
 ### Remote
 - [Virtual Domain-Driven Design - Trying out online EventStorming](https://www.youtube.com/watch?v=CbPEibNUe0s)
+
+## Context Maps
+
+### Introduction
+- [Michael Plöd - Context Maps - a deep dive](https://www.youtube.com/watch?v=VjtMt689ql8)
