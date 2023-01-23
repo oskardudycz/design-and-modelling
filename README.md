@@ -1,4 +1,4 @@
-# design-and-modelling
+# Software Design And Modelling
 Resources around software design and modelling
 
 
