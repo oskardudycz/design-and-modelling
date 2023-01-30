@@ -24,3 +24,6 @@ Resources around software design and modelling
 
 ### Introduction
 - [Michael Plöd - Context Maps - a deep dive](https://www.youtube.com/watch?v=VjtMt689ql8)
+
+## Facilitation
+- [Charles Desneuf - Facilitation Nightmares: How to escape a workshop not going on as planned](https://blog.charlesdesneuf.com/articles/facilitation-nightmares-how-to-escape-a-workshop-not-going-on-as-planned/)
