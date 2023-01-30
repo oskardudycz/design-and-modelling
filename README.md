@@ -2,7 +2,7 @@
 Resources around software design and modelling
 
 
-## Event Storming
+## EventStorming
 
 ### Introduction
 - [Kenny Baas-Schwegler - Crunching 'real-life stories' with DDD & Event Storming](https://www.youtube.com/watch?v=WvkBKvMnyuc)
@@ -12,7 +12,12 @@ Resources around software design and modelling
 - [Alberto Brandolini - Joys and pitfalls of collaborative modeling](https://www.youtube.com/watch?v=VXdvVo5Im6E)
 - [🇵🇱 Mariusz Gil - EventStorming Lessons Learned-kilkadziesiąt tysięcy post-itów później](https://www.youtube.com/watch?v=ft1PQwX285g)
 
+### Deep Dives
+- [🇵🇱 Sławek Sobótka - Event Storming - od analizy do architektury](https://www.youtube.com/watch?v=u4aFjePJJTM)
+- [🇵🇱 Mariusz Gil - Discovering unknown domain with Event Storming](https://www.youtube.com/watch?v=dhoXYRqghws)
+
 ### Remote
+- [Alberto Brandolini - Remote EventStorming (not Event Storming): Redesigning Everything](https://www.youtube.com/watch?v=v4xLxmpAFdI)
 - [Virtual Domain-Driven Design - Trying out online EventStorming](https://www.youtube.com/watch?v=CbPEibNUe0s)
 
 ## Context Maps
