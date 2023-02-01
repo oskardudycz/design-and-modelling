@@ -27,3 +27,14 @@ Resources around software design and modelling
 
 ## Facilitation
 - [Charles Desneuf - Facilitation Nightmares: How to escape a workshop not going on as planned](https://blog.charlesdesneuf.com/articles/facilitation-nightmares-how-to-escape-a-workshop-not-going-on-as-planned/)
+
+### Aggregates
+- [Mauro Servienti - All our aggregates are wrong](https://www.youtube.com/watch?v=hev65ozmYPI)
+- [Vaughn Vernon - Effective Aggregate Design Part I: Modeling a Single Aggregate](https://dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_1.pdf)
+- [Thomas Ploch - The One Question To Haunt Everyone: What is a DDD Aggregate?](https://www.youtube.com/watch?v=zlFqjD2LKlE)
+- [Derek Comartin - Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A)
+
+### Events Modelling
+- [Mathias Verraes - DDD and Messaging Architectures](http://verraes.net/2019/05/ddd-msg-arch/)
+- [David Boike - Putting your events on a diet](https://particular.net/blog/putting-your-events-on-a-diet)
+- [Thomas Pierrain - As Time Goes By… (a Bi-temporal Event Sourcing story)](https://youtube.com/watch?v=xzekp1RuZbM)
