@@ -34,7 +34,7 @@ Resources around software design and modelling
 - [Thomas Ploch - The One Question To Haunt Everyone: What is a DDD Aggregate?](https://www.youtube.com/watch?v=zlFqjD2LKlE)
 - [Derek Comartin - Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A)
 
-## Events Modelling
+## Events and Streams design
 - [Mathias Verraes - DDD and Messaging Architectures](http://verraes.net/2019/05/ddd-msg-arch/)
 - [David Boike - Putting your events on a diet](https://particular.net/blog/putting-your-events-on-a-diet)
 - [Thomas Pierrain - As Time Goes By… (a Bi-temporal Event Sourcing story)](https://youtube.com/watch?v=xzekp1RuZbM)
