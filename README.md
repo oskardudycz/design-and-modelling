@@ -13,6 +13,7 @@ Resources around software design and modelling
 - [Alberto Brandolini - 100,000 Orange Stickies Later](https://www.youtube.com/watch?v=fGm62ra_mQ8)
 - [Alberto Brandolini - Joys and pitfalls of collaborative modeling](https://www.youtube.com/watch?v=VXdvVo5Im6E)
 - [🇵🇱 Mariusz Gil - EventStorming Lessons Learned-kilkadziesiąt tysięcy post-itów później](https://www.youtube.com/watch?v=ft1PQwX285g)
+- [Jacopo Romei - EventStorming from the trenches](https://www.youtube.com/watch?v=viJfh8ayTvc)
 
 ### Deep Dives
 - [🇵🇱 Sławek Sobótka - Event Storming - od analizy do architektury](https://www.youtube.com/watch?v=u4aFjePJJTM)
