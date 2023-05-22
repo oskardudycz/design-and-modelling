@@ -4,6 +4,9 @@ Resources around software design and modelling
 ## General
 - [Vaughn Vernon - Modeling Uncertainty](https://www.youtube.com/watch?v=uhZx7Pim_tc)
 
+## Service Boundaries
+- [Adam Ralph - Finding your service boundaries - a practical guide](https://www.youtube.com/watch?v=jdliXz70NtM)
+
 ## EventStorming
 
 ### Introduction
