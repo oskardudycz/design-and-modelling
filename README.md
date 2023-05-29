@@ -6,6 +6,7 @@ Resources around software design and modelling
 
 ## Service Boundaries
 - [Adam Ralph - Finding your service boundaries - a practical guide](https://www.youtube.com/watch?v=jdliXz70NtM)
+- [Udi Dahan - Finding Service Boundaries – illustrated in healthcare](https://www.youtube.com/watch?v=RhfyP8pEEc4)
 
 ## EventStorming
 
